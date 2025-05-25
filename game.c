@@ -1,7 +1,7 @@
 /*
 * Project for PHY2027 module
 * Conway's Game of Life
-* Author: Jamie Hoskyns
+* Author: James Hoskyns
 */
 
 /*
