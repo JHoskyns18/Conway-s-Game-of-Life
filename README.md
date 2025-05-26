@@ -1,5 +1,7 @@
 # Conway's Game of Life
 
+## Scientific Programming in C - 2nd Year Undergraduate Degree
+
 This project is an implementation of Conway's Game of Life, a classic example of cellular automata, written in C. It simulates the evolution of a grid of cells based on a set of simple rules, producing complex and often surprising patterns.
 
 Each cell in a 2D grid can be either alive or dead. The grid evolves generation to generation according to the following rules:
